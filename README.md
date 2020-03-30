@@ -22,3 +22,9 @@ Tried calling: placeholderSize=null
 ```
 
 Interestingly the error does not occur when deleting non-last elements.
+
+# Video
+
+https://youtu.be/zykVq2BT_Ao 
+
+[![Screencapture of the OpenContainer Error](https://img.youtube.com/vi/zykVq2BT_Ao/0.jpg)](https://www.youtube.com/watch?v=zykVq2BT_Ao)
